@@ -73,4 +73,21 @@ double gRec(unsigned i) {
 
 double gStack(unsigned i) {
     // TODO
+
+
+    ArrayStack<double> list(i);
+    for (int j = 0; j < list.getMaxSize(); j++) {
+        list.push(1.1);
+    }
+    double counter = 3.2;
+
+    while (i != 0) {
+        double val = list.peek();
+        list.pop();
+        counter += val;
+        i--;
+    }
+
+    return counter;
+
 }

@@ -1,0 +1,37 @@
+Enter the starting value for i: 100
+
+Recursive:
+Base case!
+113.2
+
+Iterative:
+113.2
+
+
+Enter the starting value for i: 1000
+
+Recursive:
+Base case!
+1103.2
+
+Iterative:
+1103.2
+
+
+Enter the starting value for i: 10
+
+Recursive:
+Base case!
+14.2
+
+Iterative:
+14.2
+
+Enter the starting value for i: 9271
+
+Recursive:
+Base case!
+10201.3
+
+Iterative:
+10201.3
